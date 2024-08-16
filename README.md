@@ -1,4 +1,5 @@
-# Adobe Behaviour and Content Simulation Challenge - InterIIT Tech Meet-12.0
+# Adobe Behaviour and Content Simulation Challenge 
+# InterIIT Tech Meet-12.0
 
 Communication in the digital realm is a dynamic interplay between senders and receivers, with each message crafted to evoke specific user behaviors. For marketers, the ultimate goal is to understand and predict user engagement – the likes, comments, shares, and purchases that define the success of their content.
 
